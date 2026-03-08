@@ -1,0 +1,17 @@
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+cache/
+lng/
+checkpoints/
+preds/
+logs/
+analysis/
+feedback_logs/
+wandb/
+data/
+*.swp
+*.swo
+*.tmp
+.DS_Store
